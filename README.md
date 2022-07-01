@@ -1,4 +1,4 @@
---------------------------------- Heading Section ----------------------------------
+<--------------------------------- Heading Section ---------------------------------->
 
 <h1 align="center">
     Hi
@@ -13,17 +13,16 @@
     <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
 </h3>
 
-
 <br>
 
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
     <a href="https://github.com/Sagar-Gondage">
-        <img src="https://komarev.com/ghpvc/?username=m-sehrawat&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
+        <img src="https://komarev.com/ghpvc/?username=sagar-gondage&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-gondage" />
     </a>
     <a href="https://github.com/Sagar-Gondage?tab=followers">
-        <img src="https://img.shields.io/github/followers/m-sehrawat?label=Followers&style=social" alt="followers-count">
+        <img src="https://img.shields.io/github/followers/sagar-gondage?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 <br>
@@ -58,8 +57,8 @@
 <h2><i>My top projects</i></h2>
 
 <p align="left">
-    <a href="https://github.com/m-sehrawat/Nike-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike-Clone" />
+    <a href="https://github.com/Sagar-Gondage/The-Pig-Game" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Pig-Game" />
     </a>
    
 </p>
@@ -71,7 +70,7 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/sagar-gondage-37ba17209/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/sagar-gondage" />
     </a>
     
    
@@ -84,8 +83,8 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-gondage&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="m-sehrawat" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-gondage&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-gondage&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="sagar-gondage" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-gondage&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="sagar-gondage" height="139" />
 </p>
 <br>
 
