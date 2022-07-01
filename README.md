@@ -58,7 +58,7 @@
 
 <p align="left">
     <a href="https://github.com/Sagar-Gondage/The-Pig-Game" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Pig-Game" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pig-Game&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Pig-Game" />
     </a>
    
 </p>
