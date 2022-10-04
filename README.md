@@ -52,21 +52,6 @@
 </p>
 <br>
 
-<!----------------------------------- Project Section ------------------------------------>
-
-<p align="left">
-    <a href="https://github.com/Sagar-Gondage/humane-shelf-7123" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Tata 1mg-Clone" />
-    </a>
-    <a href="https://github.com/Sagar-Gondage/gusty-cover-2254" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini Store&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="bitrix-24-clone" />
-    </a>
-    <a href="https://github.com/ArjunSinghBhakuni/Mytheresa-clone-website" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="mytheresa-clone" />
-    </a>
-</p>
-<br>
-
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
 <h2><i>Let's Connect</i></h2>
