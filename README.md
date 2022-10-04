@@ -11,6 +11,7 @@
 
 <h3>
     <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+    <i>-Passionate and creative Full Stack Developer having proficiency in MERN Stack. Excited about developing user-friendly web applications with the ability to write clean, reusable and optimized code. Have problem-solving skills and the ability to perform well in a team & challenging work environment. </i>
 </h3>
 
 <br>
