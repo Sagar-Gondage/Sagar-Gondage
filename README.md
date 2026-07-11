@@ -1,103 +1,114 @@
+<!-- ============================================= HEADER ============================================= -->
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Sagar%20Gondage&fontSize=52&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Fintech%20%E2%80%A2%20MERN%20%7C%20Next.js&descSize=18&descAlignY=55" alt="banner" />
+</div>
 
-<h1 align="center">
-    Hi
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Sagar Gondage
-    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
-</h1>
-
-<!----------------------------------- About Section ------------------------------------>
-
-<h3>
-    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
-    <i>-Passionate and creative Full Stack Developer having proficiency in MERN Stack. Excited about developing user-friendly web applications with the ability to write clean, reusable and optimized code. Have problem-solving skills and the ability to perform well in a team & challenging work environment. </i>
-</h3>
-
-<br>
-
-<!----------------------------------- Profile View Section ------------------------------------>
-
-<p align="left">
-    <a href="https://github.com/Sagar-Gondage">
-        <img src="https://komarev.com/ghpvc/?username=sagar-gondage&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-gondage" />
-    </a>
-    <a href="https://github.com/Sagar-Gondage?tab=followers">
-        <img src="https://img.shields.io/github/followers/sagar-gondage?label=Followers&style=social" alt="followers-count">
-    </a>
-</p>
-<br>
-
-<!----------------------------------- Tech Stack Section ------------------------------------>
-
-<h2><i>Tech Stack</i></h2>
-
-<p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
-    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
-</p>
-<br>
-
-<!----------------------------------- Social Media Links Section ------------------------------------>
-
-<h2><i>Let's Connect</i></h2>
-
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/sagar-gondage-37ba17209/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
-    </a>
-    <a href="https://twitter.com/sagar37746694">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/MohitSehrawatt" />
-    </a>
-    <a href="https://sagargondage.vercel.app/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
-    </a>
-    <a title="sagargondage111@gmail.com" href="mailto:sagargondage111@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohitsehrawat000@gmail.com" />
-    </a>
-</p>
-<br>
-
-<!----------------------------------- GitHub Stats Section ------------------------------------>
-
-<!-- <h2><i>My GitHub Stats</i></h2>
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-gondage&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="sagar-gondage" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-gondage&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="sagar-gondage" height="139" />
-</p>
-<br> -->
- 
- 
- 
-<p display="flex" align="center">
-<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-gondage&hide=smalltalk&theme=algolia&layout=compact" width="400" />
-
-
-
-  <a href="https://github.com/sagar-gondage?tab=repositories">
-    <img width="400" height="auto"  alt="sagar's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=sagar-gondage&show_icons=true&theme=algolia&count_private=true" />
+<div align="center">
+  <a href="https://github.com/Sagar-Gondage">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer+%40+Pine+Labs;Building+fintech+systems+at+scale;MERN+%2B+Next.js+%7C+50K%2B+DAU+%7C+99.9%25+uptime;Clean+code.+Real+impact." alt="typing intro" />
   </a>
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-gondage&hide=smalltalk&theme=algolia&layout=compact" alt="sagar-gondage" />
-</p>
-<br>
+</div>
 
-<!----------------------------------- Top Repository Section ------------------------------------>
+<p align="center">
+  <a href="https://github.com/Sagar-Gondage">
+    <img src="https://komarev.com/ghpvc/?username=sagar-gondage&label=Profile+Views&color=7aa2f7&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/Sagar-Gondage?tab=followers">
+    <img src="https://img.shields.io/github/followers/sagar-gondage?label=Followers&style=flat&color=7aa2f7" alt="followers" />
+  </a>
+</p>
+
+<!-- ============================================= ABOUT ============================================= -->
+
+## 🚀 About Me
+
+- 💼 **Senior Software Engineer** at **Pine Labs** — building payment & commerce products used across **Banking, Airlines, Travel & E-Commerce**
+- 🏗️ Architected a backend serving **50K+ daily active users** at **99.9% uptime**
+- 💳 Built a gift card platform processing **10K+ transactions every day** and a B2B platform serving **50+ corporate clients**
+- 🔐 Designed an **RBAC Admin Panel** that cut admin task time by **30%**
+- 👥 Led a cross-functional team of **5 engineers**, mentored juniors, and conducted **100+ code reviews**
+- 📈 Improved dev velocity by **20%** and reduced production bugs by **25%**
+- 🌱 Currently going deep on **System Design (HLD/LLD)**, **JavaScript & React internals**, and **DSA**
+- 📍 Bengaluru, India
+
+<!-- ============================================= TECH STACK ============================================= -->
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,html,css,tailwind,bootstrap,materialui&perline=9" alt="frontend skills" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma&perline=9" alt="backend skills" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,npm&perline=9" alt="tools" />
+</p>
+
+<!-- ============================================= GITHUB ANALYTICS ============================================= -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sagar-gondage&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="github stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-gondage&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone" alt="top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sagar-gondage&theme=tokyonight&hide_border=true&background=00000000" alt="streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagar-gondage&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="contribution graph" />
+</div>
+
+<!-- ============================================= TROPHIES ============================================= -->
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sagar-gondage&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+</div>
+
+<!-- ============================================= SNAKE ============================================= -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sagar-Gondage/Sagar-Gondage/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sagar-Gondage/Sagar-Gondage/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Sagar-Gondage/Sagar-Gondage/output/github-snake-dark.svg" alt="contribution snake" />
+  </picture>
+</div>
+
+<!-- ============================================= CONNECT ============================================= -->
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sagar-gondage-37ba17209/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/sagar37746694">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://sagargondage.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:sagargondage111@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<div align="center">
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+</div>
+
+<!-- ============================================= FOOTER ============================================= -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer" alt="footer" />
+</div>
