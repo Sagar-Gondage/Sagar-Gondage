@@ -35,11 +35,17 @@ Senior Software Engineer at **Pine Labs**, building payment & commerce products 
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,nodejs,express,mongodb,prisma,html,css&perline=10" alt="tech stack row 1" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,git,github,postman,vscode,vercel,npm&perline=10" alt="tech stack row 2" />
-</div>
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,html,css,tailwind,bootstrap,materialui&perline=9" alt="frontend" />
+
+**⚙️ Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma&perline=9" alt="backend and database" />
+
+**🧰 Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,npm&perline=9" alt="tools" />
 
 <!-- ============================================= GITHUB ANALYTICS ============================================= -->
 
