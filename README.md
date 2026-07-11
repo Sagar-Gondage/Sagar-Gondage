@@ -1,55 +1,45 @@
 <!-- ============================================= HEADER ============================================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Sagar%20Gondage&fontSize=52&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Fintech%20%E2%80%A2%20MERN%20%7C%20Next.js&descSize=18&descAlignY=55" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=180&section=header&text=Sagar%20Gondage&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Fintech%20%E2%80%A2%20MERN%20%7C%20Next.js&descSize=17&descAlignY=57" alt="banner" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/Sagar-Gondage">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer+%40+Pine+Labs;Building+fintech+systems+at+scale;MERN+%2B+Next.js+%7C+50K%2B+DAU+%7C+99.9%25+uptime;Clean+code.+Real+impact." alt="typing intro" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Building+payment+systems+that+serve+50K%2B+users+daily;MERN+%2B+Next.js+%7C+99.9%25+uptime+%7C+10K%2B+txns%2Fday;Clean+code.+Real+impact." alt="typing intro" />
 </div>
-
-<p align="center">
-  <a href="https://github.com/Sagar-Gondage">
-    <img src="https://komarev.com/ghpvc/?username=sagar-gondage&label=Profile+Views&color=7aa2f7&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/Sagar-Gondage?tab=followers">
-    <img src="https://img.shields.io/github/followers/sagar-gondage?label=Followers&style=flat&color=7aa2f7" alt="followers" />
-  </a>
-</p>
 
 <!-- ============================================= ABOUT ============================================= -->
 
 ## 🚀 About Me
 
-- 💼 **Senior Software Engineer** at **Pine Labs** — building payment & commerce products used across **Banking, Airlines, Travel & E-Commerce**
+Senior Software Engineer at **Pine Labs**, building payment & commerce products across **Banking, Airlines, Travel & E-Commerce** from Bengaluru, India.
+
 - 🏗️ Architected a backend serving **50K+ daily active users** at **99.9% uptime**
-- 💳 Built a gift card platform processing **10K+ transactions every day** and a B2B platform serving **50+ corporate clients**
+- 💳 Built a gift card platform processing **10K+ transactions/day** and a B2B platform serving **50+ corporate clients**
 - 🔐 Designed an **RBAC Admin Panel** that cut admin task time by **30%**
-- 👥 Led a cross-functional team of **5 engineers**, mentored juniors, and conducted **100+ code reviews**
-- 📈 Improved dev velocity by **20%** and reduced production bugs by **25%**
+- 👥 Led a team of **5 engineers**, mentored juniors, **100+ code reviews** — dev velocity up **20%**, prod bugs down **25%**
 - 🌱 Currently going deep on **System Design (HLD/LLD)**, **JavaScript & React internals**, and **DSA**
-- 📍 Bengaluru, India
+
+<!-- ============================================= FEATURED PROJECTS ============================================= -->
+
+## 💼 Featured Projects
+
+| Project | What it is | Built with |
+| :--- | :--- | :--- |
+| [**Social Media App**](https://github.com/Sagar-Gondage/next-15-social-media-app) | Full-stack social platform — feeds, follows, likes & comments | Next.js 15, React, MongoDB |
+| [**YouTube Clone**](https://github.com/Sagar-Gondage/clone-youtube) | Video platform with search, playback & channel pages | Next.js, TypeScript |
+| [**E-Commerce App**](https://github.com/Sagar-Gondage/e-commerse-app) | Marketplace with cart, checkout & full admin CRUD | React, Node.js, Express, MongoDB |
+| [**Razorpay Integration**](https://github.com/Sagar-Gondage/razorpay-payment-integration) | End-to-end payment gateway integration | Node.js, Razorpay API |
 
 <!-- ============================================= TECH STACK ============================================= -->
 
 ## 🛠️ Tech Stack
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,html,css,tailwind,bootstrap,materialui&perline=9" alt="frontend skills" />
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma&perline=9" alt="backend skills" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,npm&perline=9" alt="tools" />
-</p>
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,html,css,tailwind,bootstrap,materialui&perline=9" alt="frontend" /> |
+| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma&perline=9" alt="backend" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,npm&perline=9" alt="tools" /> |
 
 <!-- ============================================= GITHUB ANALYTICS ============================================= -->
 
@@ -62,16 +52,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sagar-gondage&theme=tokyonight&hide_border=true&background=00000000" alt="streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagar-gondage&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="contribution graph" />
-</div>
-
-<!-- ============================================= TROPHIES ============================================= -->
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sagar-gondage&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
 </div>
 
 <!-- ============================================= SNAKE ============================================= -->
@@ -110,5 +90,5 @@
 <!-- ============================================= FOOTER ============================================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=110&section=footer" alt="footer" />
 </div>
