@@ -52,8 +52,7 @@ Senior Software Engineer at **Pine Labs**, building payment & commerce products 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagar-gondage&theme=tokyonight" alt="github stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagar-gondage&theme=tokyonight" alt="top languages" />
+  <img src="./github-metrics.svg" alt="github metrics — stats, languages, activity" />
 </div>
 
 <div align="center">
