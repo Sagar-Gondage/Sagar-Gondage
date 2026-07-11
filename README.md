@@ -35,19 +35,19 @@ Senior Software Engineer at **Pine Labs**, building payment & commerce products 
 
 ## 🛠️ Tech Stack
 
-| Area | Technologies |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,html,css,tailwind,bootstrap,materialui&perline=9" alt="frontend" /> |
-| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma&perline=9" alt="backend" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,npm&perline=9" alt="tools" /> |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,nodejs,express,mongodb,prisma,html,css&perline=10" alt="tech stack row 1" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,git,github,postman,vscode,vercel,npm&perline=10" alt="tech stack row 2" />
+</div>
 
 <!-- ============================================= GITHUB ANALYTICS ============================================= -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sagar-gondage&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="github stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-gondage&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone" alt="top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagar-gondage&theme=tokyonight" alt="github stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagar-gondage&theme=tokyonight" alt="top languages" />
 </div>
 
 <div align="center">
