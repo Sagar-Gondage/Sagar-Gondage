@@ -83,7 +83,7 @@ Senior Software Engineer at **Pine Labs**, building payment & commerce products 
   <a href="https://sagargondage.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:sagargondage111@gmail.com">
+  <a href="mailto:sagargondage370@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
