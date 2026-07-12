@@ -74,7 +74,7 @@ Senior Software Engineer at **Pine Labs**, building payment & commerce products 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sagar-gondage-37ba17209/">
+  <a href="https://www.linkedin.com/in/sagar-gondage/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/sagar37746694">
