@@ -26,10 +26,10 @@ Senior Software Engineer at **Pine Labs**, building payment & commerce products 
 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
+| [**sagargondage.com**](https://github.com/Sagar-Gondage/portfolio) | My portfolio — case studies with animated architecture diagrams, ⌘K palette, 100% server-rendered ([live site](https://sagargondage.com)) | Next.js 16, TypeScript, Tailwind CSS |
 | [**Social Media App**](https://github.com/Sagar-Gondage/next-15-social-media-app) | Full-stack social platform — feeds, follows, likes & comments | Next.js 15, React, MongoDB |
 | [**YouTube Clone**](https://github.com/Sagar-Gondage/clone-youtube) | Video platform with search, playback & channel pages | Next.js, TypeScript |
 | [**E-Commerce App**](https://github.com/Sagar-Gondage/e-commerse-app) | Marketplace with cart, checkout & full admin CRUD | React, Node.js, Express, MongoDB |
-| [**Razorpay Integration**](https://github.com/Sagar-Gondage/razorpay-payment-integration) | End-to-end payment gateway integration | Node.js, Razorpay API |
 
 <!-- ============================================= TECH STACK ============================================= -->
 
